@@ -1,4 +1,4 @@
-This is the 2nd Courseworks for F29AI Artificial Intelligence and Intelligent Agents, 3rd year of Bsc Computer Science.
+This is the 2nd Coursework for F29AI Artificial Intelligence and Intelligent Agents, 3rd year of Bsc Computer Science.
 This coursework consists of 3 parts, one written in Java, and the two last parts where done as a class test. 
 
 The program written in Java is the game TicTacToe. The algorithms written for this coursework is Value Iteration, Policy Iteration and Q-Learning with Epsilon Greedy Policy. 
